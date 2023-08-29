@@ -4,7 +4,7 @@ My name is Tatyana. I'm a Front-end developer.
 
 My Portfolio: https://tanyaignatenko.github.io/portfolio-website/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck)](https://github.com/TanyaIgnatenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck&layout=compact)](https://github.com/TanyaIgnatenko/github-readme-stats)
 
 
 
