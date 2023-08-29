@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Tatyana. I'm a Front-end developer.
+
+My Portfolio: https://tanyaignatenko.github.io/portfolio-website/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=10)](https://github.com/TanyaIgnatenko/github-readme-stats)
+
+
+
 <!--
 **TanyaIgnatenko/TanyaIgnatenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
