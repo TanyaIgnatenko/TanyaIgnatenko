@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tatyana. I'm a Front-end developer.
+My name is Tatyana. I'm a Full Stack Engineer.
 
 My Portfolio: https://tanyaignatenko.github.io/portfolio-website/
 
