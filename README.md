@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tatyana. I'm a Senior Front-end Engineer.
+My name is Tatyana. I'm a Senior Front-end Engineer with over 5 years of experience in web development.
 
 My Portfolio: https://tanyaignatenko.github.io/portfolio-website/
 
