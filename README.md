@@ -4,6 +4,8 @@ My name is Tatyana. I'm a Senior Frontend Engineer.
 
 My Portfolio: https://tanyaignatenko.github.io/portfolio-website/
 
+#### 📊 GitHub Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck,Html&layout=compact)](https://github.com/TanyaIgnatenko/github-readme-stats)
 
 
