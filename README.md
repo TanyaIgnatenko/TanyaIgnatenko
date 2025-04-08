@@ -1,8 +1,7 @@
-### Hi there 👋
-
-My name is Tatyana. I'm a Data Scientist & Senior Software Engineer.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck,Html&layout=compact)](https://github.com/TanyaIgnatenko/github-readme-stats)
+👋 Hi, I’m Tanya Ignatenko
+👨‍💻 I'm passionate about Data Science, NLP, and solving real-world ML problems.
+🌱 I’m currently learning ML and Data Science in the Data Science master's program.
+📫 How to reach me tanigna.work@gmail.com ; tg: @sunny_tanny
 
 
 
