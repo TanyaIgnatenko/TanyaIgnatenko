@@ -1,5 +1,5 @@
 👋 Hi, I’m Tanya Ignatenko  
-💻 ML Engineer  
+👩‍💻 ML Engineer  
 🌱 Mastering ML, NLP, and Data Science @ Freie Universität Berlin  
 🔍 Passionate about NLP, Data Science and solving real-world ML problems  
 📫 Let’s connect: tanigna.work@gmail.com | TG: @sunny_tanny   
