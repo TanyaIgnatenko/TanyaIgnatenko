@@ -1,7 +1,7 @@
-👋 Hi, I’m Tanya Ignatenko
-👨‍💻 I'm passionate about Data Science, NLP, and solving real-world ML problems.
-🌱 I’m currently learning ML and Data Science in the Data Science master's program.
-📫 How to reach me tanigna.work@gmail.com ; tg: @sunny_tanny
+👋 Hi, I’m Tanya Ignatenko  
+👨‍💻 I'm passionate about Data Science, NLP, and solving real-world ML problems.  
+🌱 I’m currently learning ML and Data Science in the Data Science master's program.  
+📫 How to reach me tanigna.work@gmail.com ; tg: @sunny_tanny  
 
 
 
