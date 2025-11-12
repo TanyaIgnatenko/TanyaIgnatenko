@@ -1,4 +1,4 @@
-👋 Hi, I’m Tanya Ignatenko  
+👋 Hi, I’m Tatyana Ignatenko  
 💻 ML Engineer | NLP  
 🌱 Mastering ML, NLP and Data Science @ Freie Universität Berlin    
 🔍 Passionate about Data Science and solving real-world ML problems  
