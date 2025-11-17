@@ -4,7 +4,7 @@
 🔍 Passionate about Data Science and solving real-world ML problems  
 📫 Let’s connect: tanigna.work@gmail.com | TG: @sunny_tanny   
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck,Html&layout=compact)](https://github.com/TanyaIgnatenko/github-readme-stats)
 
 
 
