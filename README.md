@@ -2,7 +2,7 @@
 💻 ML Engineer | NLP  
 🌱 Mastering ML, NLP and Data Science @ Freie Universität Berlin    
 🔍 Passionate about Data Science and solving real-world ML problems  
-📫 Let’s connect: tanigna.work@gmail.com
+📫 Let’s connect: taignatenko.work@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaIgnatenko&langs_count=9&hide=BrainFuck,Html&layout=compact)](https://github.com/TanyaIgnatenko/github-readme-stats)
 
